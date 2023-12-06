@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+background-color: yellow;
+text-align:center;
+}
+ol{
+    background-color:aquamarine;
+}
+li{ 
+    background-color: aqua;
+}
+body{
+    background-color:beige;
+}
+.titulo {
+    background-color: black;
+}
+img{
+    width:45% ;
+}
+iframe {
+    width: 35%;
+}
+h1 tit { 
+    background-color: aquamarine;
+}
